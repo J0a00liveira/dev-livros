@@ -1,12 +1,13 @@
 # Livos de tecnologia que desejo ler :books:
-[![Versão - 1.0](https://img.shields.io/badge/Versão-1.0-blue?logo=git)](https://) [![Livros - 20](https://img.shields.io/badge/Livros-20-blue?logo=gitbook&logoColor=red)](https://)
+[![Versão - 1.0](https://img.shields.io/badge/Versão-1.0-blue?logo=git)](https://) [![Livros - 21](https://img.shields.io/badge/Livros-21-blue?logo=gitbook&logoColor=red)](https://)
 
 ##### Livros voltados para programação que eu gostaria de ler em algum momento, alguns dos mais recomendados por professores da minha graduação, amigos programadores ou influencers da área. deixarei o repositório público para que possa ajudar mais pessoas que buscam esses livros, inclusive, estou aberto a sugestões caso queiram compartilhar algum que não esteja aqui e seja bom também.
 
 ##### Todos os livros postados aqui são em Português :information_source:
+###### (incluí o livro "o codificador limpo" completo em inglês pois não o encontrei completo em português, apenas as 40 primeiras páginas, então incluí os dois.)
 ---
 ### :construction: Em construção - ainda vou estruturar essa pagina linkando os pdf's :construction:
-###### (caso queira ver algum livro enquanto nao corrijo aqui, veja a pasta livros)
+###### (veja a pasta livros para acessar os pdf's)
 
 | CAPA | TÍTULO | AUTOR | Nº PAG.S |
 |:----:	|:----------------------------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------:	|:--------:	|
@@ -22,6 +23,7 @@
 |<img src="https://m.media-amazon.com/images/I/615KsgTP0+L._SL1500_.jpg" style="width: 80px;">| Extreme Programming Explained - Embrace Change | Kent Beck | 207 |
 |<img src="https://m.media-amazon.com/images/I/51hdie3tJfL._SL1000_.jpg" style="width: 80px;">| Introdução à Arquitetura e Design de Software | Mark Richards | 265 |
 |<img src="https://m.media-amazon.com/images/I/814AN9YSppL._SL1500_.jpg" style="width: 80px;">| Linux - o guia essencial | Daniel J. Barrett | 854 |
+|<img src="https://m.media-amazon.com/images/I/81Bkua6-koL._SL1500_.jpg" style="width: 80px;">| The Clean Coder: A Code of Conduct for Professional | Robert C. Martin | :us: 244 |
 |<img src="https://m.media-amazon.com/images/I/81dBiDT7qTL._SL1500_.jpg" style="width: 80px;">| O Programador Apaixonado - Construindo uma carreira notavel em desenvolvimento de software | Chad Fowler | 234 |
 |<img src="https://m.media-amazon.com/images/I/61hewOW+8zL._SL1500_.jpg" style="width: 80px;">| O Programador Pragmático | Andrew Hunt e David Thomas | 348 |
 |<img src="https://m.media-amazon.com/images/I/9169z5-CtML._SL1500_.jpg" style="width: 80px;">| Padrões de Projetos - Soluções Reutilizáveis de Software Orientados a Objetos | Erich Gamma, Richard Helm, Ralph Johnson e John Vlissides | 360 |
