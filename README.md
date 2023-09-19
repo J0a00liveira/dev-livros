@@ -1,5 +1,5 @@
 # Livos de tecnologia que desejo ler :books:
-[![Versão - 1.0](https://img.shields.io/badge/Versão-1.0-blue?logo=git)](https://) [![Livros - 19](https://img.shields.io/badge/Livros-19-blue?logo=gitbook&logoColor=red)](https://)
+[![Versão - 1.0](https://img.shields.io/badge/Versão-1.0-blue?logo=git)](https://) [![Livros - 20](https://img.shields.io/badge/Livros-20-blue?logo=gitbook&logoColor=red)](https://)
 
 ##### Livros voltados para programação que eu gostaria de ler em algum momento, alguns dos mais recomendados por professores da minha graduação, amigos programadores ou influencers da área. deixarei o repositório público para que possa ajudar mais pessoas que buscam esses livros, inclusive, estou aberto a sugestões caso queiram compartilhar algum que não esteja aqui e seja bom também.
 
