@@ -1,5 +1,5 @@
 # Livos de tecnologia que desejo ler :books:
-[![Versão - 1.0](https://img.shields.io/badge/Versão-1.0-blue?logo=git)](https://) [![Livros - 23](https://img.shields.io/badge/Livros-23-blue?logo=gitbook&logoColor=red)](https://)
+[![Versão - 1.0](https://img.shields.io/badge/Versão-1.0-blue?logo=git)](https://) [![Livros - 23](https://img.shields.io/badge/Livros-23-blue?logo=gitbook&logoColor=red)](https://) <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/J0a00liveira/dev-livros" />
 
 ##### Livros voltados para programação que eu gostaria de ler em algum momento, alguns dos mais recomendados por professores da minha graduação, amigos programadores ou influencers da área. deixarei o repositório público para que possa ajudar mais pessoas que buscam esses livros, inclusive, estou aberto a sugestões caso queiram compartilhar algum que não esteja aqui e seja bom também.
 
@@ -37,5 +37,6 @@
 ---
 ##### Usados na personalização deste repositório :pencil2:
 - ###### [badge personalizado](https://michaelcurrin.github.io/badge-generator/#/generic) (usei na contagem de livros)
+- ###### [badges do repositorio](https://github-badges.netlify.app/) (usei no "Last commit")
 - ###### [emojis](https://gist.github.com/rxaviers/7360908)
 - ###### [gerador de tabelas markdown](https://www.tablesgenerator.com/markdown_tables) (caso vc seja preguiçoso igual eu :sweat_smile:)
