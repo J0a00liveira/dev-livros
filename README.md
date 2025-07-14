@@ -10,7 +10,7 @@
 
 | CAPA | TÍTULO | AUTOR | :bookmark_tabs: | :date: |
 |:----:|:----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|:--------:|:--------------:|
-|<img src="https://m.media-amazon.com/images/I/71QtOUBMtNL._SL1500_.jpg" style="width: 80px;">| [Algoritmos - Teoria e Prática](https://github.com/J0a00liveira/dev-livros/blob/main/livros/Algoritmos%20-%20Teoria%20e%20Pr%C3%A1tica.pdf) | Thomas Cormen | 1042 |2012|
+|<img src="https://m.media-amazon.com/images/I/71QtOUBMtNL._SL1500_.jpg" style="width: 80px;">| [Algoritmos - Teoria e Prática](https://archive.org/details/algoritmos-teoria-e-pratica) | Thomas Cormen | 1042 |2012|
 |<img src="https://m.media-amazon.com/images/I/71B4Ouv610L._SL1500_.jpg" style="width: 80px;">| [APIs REST: Seus serviços prontos para o mundo real](https://pt.scribd.com/embeds/563537813/content) |  Alexandre Saudate | 332 |2021|
 |<img src="https://m.media-amazon.com/images/I/815d9tE7jSL._SL1500_.jpg" style="width: 80px;">| [Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software](https://github.com/J0a00liveira/dev-livros/blob/main/livros/Arquitetura%20Limpa%20-%20O%20Guia%20do%20Artes%C3%A3o%20para%20Estrutura%20e%20Design%20de%20Software.pdf) | Robert C. Martin | 489 | 2019 |
 |<img src="https://m.media-amazon.com/images/I/81yIzuGuPOL._SL1500_.jpg" style="width: 80px;">| [Arquitetura de Computadores - Uma Abordagem Quantitativa](https://github.com/J0a00liveira/dev-livros/blob/main/livros/Arquitetura%20de%20Computadores%20-%20Uma%20Abordagem%20Quantitativa.pdf) | John L. Hennessy e David A. Patterson | 731 | 2019 |
